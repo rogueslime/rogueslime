@@ -4,7 +4,7 @@ My name is Tray; I'm a graduate from the University of Tennessee at Chattanooga 
 
 <h2>Check out my projects here...</h2>
 
-- 
+- View my progress on [Fullstackopen](https://github.com/rogueslime/fullstackopen)
 
 <h2>Connect with me elsewhere...</h2>
 
