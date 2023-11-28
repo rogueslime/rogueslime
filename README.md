@@ -8,4 +8,4 @@ My name is Tray; I'm a graduate from the University of Tennessee at Chattanooga 
 
 <h2>Connect with me elsewhere...</h2>
 
-- Follow me on [LinkedIn!](https://www.linkedin.com/in/trayton-berry)
+- Follow me on [LinkedIn](https://www.linkedin.com/in/trayton-berry)!
