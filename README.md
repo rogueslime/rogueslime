@@ -5,6 +5,7 @@ My name is Tray; I'm a graduate from the University of Tennessee at Chattanooga 
 <h2>Check out some of my projects here...</h2>
 
 - View my progress on [Fullstackopen](https://github.com/rogueslime/fullstackopen)!
+- View my progress on [Advent of Code 2023](https://github.com/rogueslime/adventOfCode2023)!
 
 <h2>Connect with me elsewhere...</h2>
 
