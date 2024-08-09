@@ -4,8 +4,6 @@ My name is Tray; I'm a graduate from the University of Tennessee at Chattanooga 
 
 <h2>Check out some of my projects here...</h2>
 
-- View my progress on [Fullstackopen](https://github.com/rogueslime/fullstackopen)!
-- View my progress on [Advent of Code 2023](https://github.com/rogueslime/adventOfCode2023)!
 - View some of my solutions on [Leetcode](https://github.com/rogueslime/leetcode)!
 - Follow my passion project [Innkeeper](https://github.com/rogueslime/innkeeper), a webapp for DND players to share their characters!
 
